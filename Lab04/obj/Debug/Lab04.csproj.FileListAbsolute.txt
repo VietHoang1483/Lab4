@@ -1,0 +1,17 @@
+D:\học C#\Thực hành_LTMTW\Lab04\Lab04\obj\Debug\Lab04.csproj.AssemblyReference.cache
+D:\học C#\Thực hành_LTMTW\Lab04\Lab04\obj\Debug\Lab04.Form1.resources
+D:\học C#\Thực hành_LTMTW\Lab04\Lab04\obj\Debug\Lab04.Properties.Resources.resources
+D:\học C#\Thực hành_LTMTW\Lab04\Lab04\obj\Debug\Lab04.csproj.GenerateResource.cache
+D:\học C#\Thực hành_LTMTW\Lab04\Lab04\obj\Debug\Lab04.csproj.CoreCompileInputs.cache
+D:\học C#\Thực hành_LTMTW\Lab04\Lab04\bin\Debug\Lab04.exe.config
+D:\học C#\Thực hành_LTMTW\Lab04\Lab04\bin\Debug\Lab04.exe
+D:\học C#\Thực hành_LTMTW\Lab04\Lab04\bin\Debug\Lab04.pdb
+D:\học C#\Thực hành_LTMTW\Lab04\Lab04\bin\Debug\EntityFramework.dll
+D:\học C#\Thực hành_LTMTW\Lab04\Lab04\bin\Debug\EntityFramework.SqlServer.dll
+D:\học C#\Thực hành_LTMTW\Lab04\Lab04\bin\Debug\EntityFramework.xml
+D:\học C#\Thực hành_LTMTW\Lab04\Lab04\bin\Debug\EntityFramework.SqlServer.xml
+D:\học C#\Thực hành_LTMTW\Lab04\Lab04\obj\Debug\Lab04.csproj.Up2Date
+D:\học C#\Thực hành_LTMTW\Lab04\Lab04\obj\Debug\Lab04.exe
+D:\học C#\Thực hành_LTMTW\Lab04\Lab04\obj\Debug\Lab04.pdb
+D:\học C#\Thực hành_LTMTW\Lab04\Lab04\obj\Debug\Lab04.Form2.resources
+D:\học C#\Thực hành_LTMTW\Lab04\Lab04\obj\Debug\Lab04.Form3.resources
